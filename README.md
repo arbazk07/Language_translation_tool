@@ -1,4 +1,4 @@
-# Tongue — Language Translation Tool
+# Tongue - Language Translation Tool
 
 A web-based language translator with auto language detection, instant
 swap, copy-to-clipboard, and text-to-speech.
